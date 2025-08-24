@@ -7,3 +7,5 @@ Speed Limit: Specifies the maximum allowed speed for vehicles.
 Horn Prohibited: Signifies that using the horn is restricted in that area. 
 No Stopping or Standing: Prohibits stopping or leaving a vehicle at a location. 
 Pedestrian Prohibited: Indicates that pedestrians are not allowed in the area
+
+https://naeemchennai.github.io/seabelt-images/giveway.png
